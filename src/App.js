@@ -1,5 +1,7 @@
 import "./App.css";
 
+import app from "./config/firebase";
+
 function App() {
   return (
     <div className="App">
